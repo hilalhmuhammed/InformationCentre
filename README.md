@@ -4,6 +4,10 @@ This repository has Java application for demo
 Adding this line for first commit
 
 Removing the old comment and adding a new one
+
  
  
- Checking whetehr a commnet is added to the issue 
+ 
+Checking transition flow from git to jira 1
+Trying to add comments
+
