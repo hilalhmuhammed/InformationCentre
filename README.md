@@ -16,3 +16,4 @@ Alteration done in new branch
 Checking transition flow from git to jira 1
 Trying to add comments
 
+add a commit
